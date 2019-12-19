@@ -1,0 +1,13 @@
+{
+  "id": "nirvanahq",
+  "name": "nirvanahq.com",
+  "version": "1.0.3",
+  "description": "nirvana hq",
+  "main": "index.js",
+  "author": "Laurent Constantin",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://focus.nirvanahq.com/",
+    "hasNotificationSound": true
+  }
+}
