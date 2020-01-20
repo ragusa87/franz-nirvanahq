@@ -15,7 +15,7 @@ Due to it's not in the official repository you need to copy the files of the plu
 3. Add NirvanaHQ by Add Service > Custom Service > NirvanaHQ
 
 ## Disclamer
-This is just a quick unofficial app so no guarantie for nothing. Anway I am using it since a few weeks without any problem.
+This is just a quick unofficial app so no guarantie for nothing. Anyway I am using it since a few weeks without any problem.
 
 ## Licence
 Please use the :
