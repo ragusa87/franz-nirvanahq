@@ -5,7 +5,8 @@
   "description": "nirvana hq",
   "main": "index.js",
   "author": "Laurent Constantin",
-  "license": "MIT",
+  "license": "CC-BY-SA-4.0",
+  "repository": "https://github.com/ragusa87/franz-nirvanahq",
   "config": {
     "serviceURL": "https://focus.nirvanahq.com/",
     "hasNotificationSound": true
